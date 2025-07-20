@@ -73,7 +73,7 @@ Simple and functional task manager app with edit/delete and visual UI.
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faizan-rabbani-585b46346/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faizan%20Rabbani-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/faizan-webdev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faizan%20Rabbani-blue?style=flat-square&logo=linkedin"></a>
   <a href="faizanrabbani987@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faizanrabbani987@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/Faizan-rabbani"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-faizanrabbani-black?style=flat-square&logo=github"></a>
 </p>
