@@ -81,6 +81,7 @@ Simple and functional task manager app with edit/delete and visual UI.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanrabbani&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanrabbani&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-rabbani&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-rabbani&theme=tokyonight" height="160"/>
 </p>
+
