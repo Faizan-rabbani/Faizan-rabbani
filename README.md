@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end Web Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=HTML%2C+CSS%2C+JavaScript%2C+Python%2C+Django%2C+MongoDB;Always+learning+and+building...&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=HTML%2C+CSS%2C+JavaScript%2C+Python%2C+Django%2C+MongoDB;Always+learning+and+building...&center=true&width=500&height=60&pause=1000&speed=80" alt="Typing SVG" />
 </p>
 
 ---
@@ -82,6 +82,7 @@ Simple and functional task manager app with edit/delete and visual UI.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizan-rabbani&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-rabbani&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Faizan-rabbani&theme=tokyonight" height="160"/>
 </p>
+
 
