@@ -88,6 +88,7 @@ A responsive typing speed test app that tracks words per minute and typing accur
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-rabbani&theme=tokyonight" height="180" alt="Profile Summary" />
+  <img src="https://streak-stats.demolab.com/?user=Faizan-rabbani&theme=tokyonight" height="160", alt="Github Streak"/>
 </p>
 
 
