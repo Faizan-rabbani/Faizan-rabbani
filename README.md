@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 CS student passionate about clean design, scalable code, and modern tech.
+- 🎓 SE student passionate about clean design, scalable code, and modern tech.
 - 🔨 I build dynamic, full-stack web apps using HTML, CSS, JavaScript, Python, Django & MongoDB.
 - 🚀 Always learning and improving – love exploring real-world problems with creative tech solutions.
 - ✨ Currently focusing on personal portfolio projects and deployment strategies.
@@ -67,6 +67,12 @@ Creative, grid-based personal portfolio with dark/light theme and interactive la
 Simple and functional task manager app with edit/delete and visual UI.  
 **Tech:** HTML, CSS, JavaScript  
 
+
+---
+
+### ⌨️ Typing Speed Test
+A responsive typing speed test app that tracks words per minute and typing accuracy in real-time.  
+**Tech:** HTML, CSS, JavaScript  
 
 ---
 
