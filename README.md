@@ -28,7 +28,7 @@
 
 | 📌 System Design | 🌐 Architecture |
 |------------------|----------------|
-| <img src="https://www.crio.do/blog/content/images/2023/08/A-Comprehensive-Guide-to-System-Design.png" width="300"/> | <img src="https://integrio.net/static/a7aa5f34582757f1ae8793302a6c0499/components-of-web-application-architechture.png" width="300"/> |
+| <img src="https://user-images.githubusercontent.com/11299574/128067041-6ba354c3-4772-42db-8089-3649d6c39083.png" width="300"/> | <img src="https://integrio.net/static/a7aa5f34582757f1ae8793302a6c0499/components-of-web-application-architechture.png" width="300"/> |
 
 
 ---
