@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Faizan Rabbani</h1>
-<h3 align="center">💻 Front-End Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3>
+<h3 align="center">💻 Front-End Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Crafting+beautiful+web+interfaces...;Building+with+Django%2C+JavaScript+%26+MongoDB;Turning+ideas+into+reality+💡" alt="Typing SVG" />
