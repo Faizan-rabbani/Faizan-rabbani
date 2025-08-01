@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td><strong>✅ To-Do List App</strong></td>
-    <td>Interactive to-do manager with edit/delete functionality and responsive design.  
+    <td>Interactive to-do manager with edit/delete and search functionality and responsive design.  
     <br><strong>Tech:</strong> HTML, CSS, JS</td>
   </tr>
   <tr>
