@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 🎓 I'm a passionate **Software Engineering student** dedicated to clean design, scalable code, and real-world impact.  
-🛠️ My toolbox includes **HTML, CSS, JavaScript, Python, Django, SQL and MongoDB**  
+🛠️ My toolbox includes **HTML, CSS, JavaScript, Django, SQL and MongoDB**  
 🎯 I enjoy solving real-world problems through code and creating responsive, intuitive interfaces.  
 🚧 Currently polishing my **portfolio projects** and diving deeper into **deployment pipelines**.
 
