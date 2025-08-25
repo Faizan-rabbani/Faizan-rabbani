@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td><strong>👨‍🎨 Portfolio Website</strong></td>
-    <td>Dark/light mode toggle, creative grid layout, and smooth interactions.  
+    <td>creative grid layout, and smooth interactions.  
     <br><strong>Tech:</strong> HTML, CSS, JS</td>
   </tr>
   <tr>
