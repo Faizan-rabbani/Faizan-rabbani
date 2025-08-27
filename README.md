@@ -59,7 +59,6 @@
     <br><strong>Tech:</strong> HTML, CSS, JS</td>
   </tr>
 </table>
-
 ---
 
 ## 🧠 Architecture & System Design
