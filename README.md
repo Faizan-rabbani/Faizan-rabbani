@@ -4,8 +4,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=450&lines=Crafting+beautiful+web+interfaces...;Building+with+HTML%2C+CSS+%26+JavaScript;Turning+ideas+into+reality+💡" alt="Typing SVG" />
 </div>
-
-
 ---
 
 ## 🧑‍💻 About Me
@@ -14,7 +12,6 @@
 🛠️ My toolbox includes **HTML, CSS, JavaScript, Django, SQL and MongoDB**  
 🎯 I enjoy solving real-world problems through code and creating responsive, intuitive interfaces.  
 🚧 Currently polishing my **portfolio projects** and diving deeper into **deployment pipelines**.
-
 ---
 
 ## ⚙️ Tech Stack
